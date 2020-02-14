@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device;
+package com.android.settings.device;
 
 public class Constants {
     static final String KEY_MDNIE_SCENARIO = "mdnie_scenario";
