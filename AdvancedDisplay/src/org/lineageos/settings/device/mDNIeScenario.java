@@ -25,7 +25,7 @@ import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.support.v7.preference.PreferenceManager;
 import android.util.AttributeSet;
 
-import com.android.internal.util.cr.FileUtils;
+import com.android.internal.util.FileUtils;
 
 public class mDNIeScenario extends ListPreference implements OnPreferenceChangeListener {
 
