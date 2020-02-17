@@ -24,7 +24,7 @@ import android.view.MenuItem;
 
 import com.android.settings.device.R;
 
-import com.android.internal.util.cr.FileUtils;
+import com.android.internal.util.FileUtils;
 
 public class AdvancedDisplayFragment extends PreferenceFragment {
     private mDNIeScenario mmDNIeScenario;
